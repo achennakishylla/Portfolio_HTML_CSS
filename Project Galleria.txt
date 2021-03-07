@@ -1,0 +1,27 @@
+Prerequisites:
+
+- Text Editor
+- Browser
+
+TODOs
+
+1. Build the project
+	- creating the folder
+	- adding files
+	- connecting files
+
+2. Navbar
+	- 2 links and a name
+	
+3. Portfolio item grid
+	- images
+	- titles
+	- descriptions
+	- animations
+	- javascript
+	
+4. About page
+	- image
+	- split column layout
+
+#Images: you can download from unsplash.com for free e.g. search for coding pictures on the website
